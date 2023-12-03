@@ -5,7 +5,7 @@ app.use(cors());
 const port = 5000;
  
 app.get('/',(req, res)=>{
-    res.send('running')
+    res.json({message:'ok'})
 })
 
 //Find chef using chefId
