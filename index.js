@@ -6,7 +6,7 @@ const port = 5000;
 import chefs from './data/chefs.json'
 import recipes from './data/recipes.json'
 app.get('/',(req, res)=>{
-    res.json({message:'ok'})
+    res.json({message:'okk'})
 })
 
 //Find chef using chefId
