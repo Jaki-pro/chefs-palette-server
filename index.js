@@ -3,7 +3,8 @@ const app = express();
 import cors from 'cors'
 app.use(cors());
 const port = 5000;
- 
+import chefs from './data/chefs.json'
+import recipes from './data/recipes.json'
 app.get('/',(req, res)=>{
     res.json({message:'ok'})
 })
