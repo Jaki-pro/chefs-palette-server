@@ -1,0 +1,44 @@
+[
+    {
+        "chefId": "1",
+        "chefName": "Wajeka Sisila",
+        "img": "https://i.postimg.cc/hPRC7vn4/chef2.png",
+        "experience": "3",
+        "post": "Head"
+    },
+    {
+        "chefId": "2",
+        "chefName": "Wadut Mollik",
+        "img": "https://i.postimg.cc/Wzx3SR9P/wadut-removebg-preview.png",
+        "experience": "5",
+        "post": "Co-Head"
+    },
+    {
+        "chefId": "3",
+        "chefName": "Sajia Lubna",
+        "img": "https://i.postimg.cc/g2hq3Jqk/sajia.png",
+        "experience": "2",
+        "post": "Associate"
+    },
+    {
+        "chefId": "4",
+        "chefName": "Injaka Husmia",
+        "img": "https://i.postimg.cc/MHj8wjGB/injaka-removebg-preview.png",
+        "experience": "4",
+        "post": "Executive"
+    },
+    {
+        "chefId": "5",
+        "chefName": "Ariful Alam",
+        "img": "https://i.postimg.cc/VkJZVcdS/ariful.png",
+        "experience": "10",
+        "post": "Executive"
+    },
+    {
+        "chefId": "6",
+        "chefName": "Wakar Younus",
+        "img": "https://i.postimg.cc/Jh6264QB/wankar.png",
+        "experience": "8",
+        "post": "Co-Head"
+    }
+]

@@ -1,0 +1,1382 @@
+[
+    {
+        "id": "1",
+        "chefId": "1",
+        "chefName": "Wajeka Sisila",
+        "period": "Breakfast",
+        "title": "Juicy Merinated Beef",
+        "img": "https://www.themealdb.com/images/category/beef.png",
+        "cook_time": 30,
+        "cuisine": "Italian",
+        "difficulty": "Intermediate", 
+        "likes":"249",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "2",
+        "chefId": "1",
+        "chefName": "Wajeka Sisila",
+        "period": "Lunch",
+        "title": "South Shore Bar Pizza",
+        "img": "https://www.themealdb.com/images/category/chicken.png",
+        "cook_time": 60,
+        "cuisine": "Indian",
+        "difficulty": "Intermediate", 
+        "likes":"239",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "3",
+        "chefId": "1",
+        "chefName": "Wajeka Sisila",
+        "period": "Breakfast",
+        "title": "Chokolate Dessert",
+        "img": "https://www.themealdb.com/images/category/dessert.png",
+        "cook_time": 40,
+        "cuisine": "Indian",
+        "difficulty": "Easy", 
+        "likes":"269",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "4",
+        "chefId": "1",
+        "chefName": "Wajeka Sisila", 
+        "period": "Dinner",
+        "title": "Lemon Drizzle Cake",
+        "img": "https://www.themealdb.com/images/category/lamb.png",
+        "cook_time": 140,
+        "cuisine": "Korean",
+        "difficulty": "Hard", 
+        "likes":"265",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "5",
+        "chefId": "1",
+        "chefName": "Wajeka Silsila",
+        "period": "Dinner",
+        "title": "Barbecued Butter Chickene",
+        "img": "https://www.themealdb.com/images/category/miscellaneous.png",
+        "cook_time": 120,
+        "cuisine": "Chiness",
+        "difficulty": "Intermediate", 
+        "likes":"165",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "6",
+        "chefId": "2",
+        "chefName": "Wadut Mollik",
+        "period": "Breakfast",
+        "title": "Frijoles Borrachos (Drunken Baked Beans)",
+        "img": "https://www.themealdb.com/images/category/pasta.png",
+        "cook_time": 120,
+        "cuisine": "Chiness",
+        "difficulty": "Easy", 
+        "likes":"65",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "7",
+        "chefId": "2",
+        "chefName": "Wadut Mollik",
+        "period": "Dinner",
+        "title": "Clams Casino Stuffed Pasta Shells",
+        "img": "https://www.themealdb.com/images/category/pork.png",
+        "cook_time": 100,
+        "cuisine": "Chiness",
+        "difficulty": "Intermediate", 
+        "likes":"95",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "8",
+        "chefId": "2",
+        "chefName": "Wadut Mollik",
+        "period": "Lunch",
+        "title": "Strawberry Whip in a Black Sesame Tuile",
+        "img": "https://www.themealdb.com/images/category/seafood.png",
+        "cook_time": 10,
+        "cuisine": "Japaness",
+        "difficulty": "Easy", 
+        "likes":"35",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "9",
+        "chefId": "2",
+        "chefName": "Wadut Mollik",
+        "period": "Breakfast",
+        "title": "Grilled Caesar Chicken",
+        "img": "https://www.themealdb.com/images/category/side.png",
+        "cook_time": 70,
+        "cuisine": "Japaness",
+        "difficulty": "Easy", 
+        "likes":"65",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "10",
+        "chefId": "2",
+        "chefName": "Wadut Mollik",
+        "period": "Lunch",
+        "title": "Strawberry Rhubarb Drop Biscuits",
+        "img": "https://www.themealdb.com/images/category/starter.png",
+        "cook_time": 70,
+        "cuisine": "Bangladeshi",
+        "difficulty": "Hard", 
+        "likes":"765",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "11",
+        "chefId": "3",
+        "chefName": "Sajia Lubna",
+        "period": "Dinner",
+        "title": "West African Grilled Beef (Suya)",
+        "img": "https://www.themealdb.com/images/category/vegan.png",
+        "cook_time": 70,
+        "cuisine": "Bangladeshi",
+        "difficulty": "Easy", 
+        "likes":"75",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "12",
+        "chefId": "3",
+        "chefName": "Sajia Lubna",
+        "period": "Breakfast",
+        "title": "Old Fashioned Baked Vanilla Custard",
+        "img": "https://www.themealdb.com/images/category/vegetarian.png",
+        "cook_time": 70,
+        "cuisine": "Bangladeshi",
+        "difficulty": "Easy", 
+        "likes":"75",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "13",
+        "chefId": "3",
+        "chefName": "Sajia Lubna",
+        "period": "Breakfast",
+        "title": "Cheeseburger Wellington",
+        "img": "https://www.themealdb.com/images/category/breakfast.png",
+        "cook_time": 80,
+        "cuisine": "Turkey",
+        "difficulty": "Hard", 
+        "likes":"79",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "14",
+        "chefId": "3",
+        "chefName": "Sajia Lubna",
+        "period": "Dinner",
+        "title": "Watermilon Cupsy",
+        "img": "https://www.themealdb.com/images/category/goat.png",
+        "cook_time": 60,
+        "cuisine": "Turkey",
+        "difficulty": "Intermediate", 
+        "likes":"179",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "15",
+        "chefId": "3",
+        "chefName": "Sajia Lubna",
+        "period": "Lunch",
+        "title": "Bangladeshi Spicy Beef",
+        "img": "https://www.themealdb.com/images/category/beef.png",
+        "cook_time": 60,
+        "cuisine": "Bangladeshi",
+        "difficulty": "Hard", 
+        "likes":"159",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "16",
+        "chefId": "4",
+        "chefName": "Injaka Husmia",
+        "period": "Breakfast",
+        "title": "Lubby Sticky Palm",
+        "img": "https://www.themealdb.com/images/category/chicken.png",
+        "cook_time": 160,
+        "cuisine": "Romania",
+        "difficulty": "Intermediate", 
+        "likes":"659",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "17",
+        "chefId": "4",
+        "chefName": "Injaka Husmia",
+        "period": "Lunch",
+        "title": "French Fry",
+        "img": "https://www.themealdb.com/images/category/dessert.png",
+        "cook_time": 100,
+        "cuisine": "French",
+        "difficulty": "Hard", 
+        "likes":"639",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "18",
+        "chefId": "4",
+        "chefName": "Injaka Husmia",
+        "period": "Lunch",
+        "title": "Kaiserschmarren – Austrian Torn Pancakes",
+        "img": "https://www.themealdb.com/images/category/lamb.png",
+        "cook_time": 30,
+        "cuisine": "Pakistani",
+        "difficulty": "Intermediate", 
+        "likes":"66",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "19",
+        "chefId": "4",
+        "chefName": "Injaka Husmia",
+        "period": "Dinner",
+        "title": "Chicken Leg Toast",
+        "img": "https://www.themealdb.com/images/category/miscellaneous.png",
+        "cook_time": 50,
+        "cuisine": "African",
+        "difficulty": "Hard", 
+        "likes":"566",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "20",
+        "chefId": "4",
+        "chefName": "Injaka Husmia",
+        "period": "Breakfast",
+        "title": "Prime Rib Gravy",
+        "img": "https://www.themealdb.com/images/category/pasta.png",
+        "cook_time": 60,
+        "cuisine": "Australian",
+        "difficulty": "Hard", 
+        "likes":"56",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "21",
+        "chefId": "5",
+        "chefName": "Ariful Alam",
+        "period": "Breakfast",
+        "title": "Beans and Greens Tartine",
+        "img": "https://www.themealdb.com/images/category/pork.png",
+        "cook_time": 60,
+        "cuisine": "Australian",
+        "difficulty": "Hard", 
+        "likes":"56",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "22",
+        "chefId": "5",
+        "chefName": "Ariful Alam",
+        "period": "Lunch",
+        "title": "Southeast Asian Style Chicken Rice",
+        "img": "https://www.themealdb.com/images/category/seafood.png",
+        "cook_time": 60,
+        "cuisine": "Kanadian",
+        "difficulty": "Intermediate", 
+        "likes":"567",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "23",
+        "chefId": "5",
+        "chefName": "Ariful Alam",
+        "period": "Dinner",
+        "title": "Kansas City Style 'Burnt Ends' Philly Cheesesteak",
+        "img": "https://www.themealdb.com/images/category/side.png",
+        "cook_time": 65,
+        "cuisine": "Algerian",
+        "difficulty": "Hard", 
+        "likes":"57",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "24",
+        "chefId": "5",
+        "chefName": "Ariful Alam",
+        "period": "Breakfast",
+        "title": "Spicy Lazzy Bar",
+        "img": "https://www.themealdb.com/images/category/starter.png",
+        "cook_time": 75,
+        "cuisine": "Brazilian",
+        "difficulty": "Intermediate", 
+        "likes":"579",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "25",
+        "chefId": "5",
+        "chefName": "Ariful Alam",
+        "period": "Lunch",
+        "title": "Bruna Leaf Spicy",
+        "img": "https://www.themealdb.com/images/category/vegan.png",
+        "cook_time": 85,
+        "cuisine": "Barmij",
+        "difficulty": "Hard", 
+        "likes":"79",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "26",
+        "chefId": "6",
+        "chefName": "Wakar Younus",
+        "period": "Lunch",
+        "title": "Spicy Burinda",
+        "img": "https://www.themealdb.com/images/category/vegetarian.png",
+        "cook_time": 45,
+        "cuisine": "Bangladeshi",
+        "difficulty": "Intermediate", 
+        "likes":"979",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "27",
+        "chefId": "6",
+        "chefName": "Wakar Younus",
+        "period": "Dinner",
+        "title": "Bangladeshi Spicy Fry",
+        "img": "https://www.themealdb.com/images/category/breakfast.png",
+        "cook_time": 45,
+        "cuisine": "Bangladeshi",
+        "difficulty": "Intermediate", 
+        "likes":"79",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "28",
+        "chefId": "6",
+        "chefName": "Wakar Younus",
+        "period": "Breakfast",
+        "title": "Apple Juicy spicy Milk",
+        "img": "https://www.themealdb.com/images/category/goat.png",
+        "cook_time": 85,
+        "cuisine": "Indian",
+        "difficulty": "Intermediate", 
+        "likes":"879",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "29",
+        "chefId": "6",
+        "chefName": "Wakar Younus",
+        "period": "Breakfast",
+        "title": "Oliver Cooky Spy Londy",
+        "img": "https://www.themealdb.com/images/category/miscellaneous.png",
+        "cook_time": 85,
+        "cuisine": "Indian",
+        "difficulty": "Intermediate", 
+        "likes":"879",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    },
+    {
+        "id": "30",
+        "chefId": "6",
+        "chefName": "Wakar Younus",
+        "period": "Dinner",
+        "title": "Green No-Bean Hummus",
+        "img": "https://www.themealdb.com/images/category/seafood.png",
+        "cook_time": 85,
+        "cuisine": "Japaness",
+        "difficulty": "Hard", 
+        "likes":"89",
+        "ingredients": [
+            {
+                "name": "Chicken Breasts",
+                "quantity": "4 pieces",
+                "preparation": "Boneless, skinless, pounded thin"
+            },
+            {
+                "name": "Marsala Wine",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Chicken Broth",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "All-Purpose Flour",
+                "quantity": "1/2 cup",
+                "notes": "For dredging"
+            },
+            {
+                "name": "Cremini Mushrooms",
+                "quantity": "8 oz",
+                "preparation": "Sliced"
+            }
+        ],
+        "instructions": [
+            "Season chicken breasts with salt and pepper.",
+            "Dredge chicken in flour, shaking off excess.",
+            "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat.",
+            "Add chicken and cook until golden brown on both sides. Remove and set aside.",
+            "In the same skillet, add more oil if needed. Sauté shallots and mushrooms until softened.",
+            "Pour in Marsala wine, scraping up any browned bits. Add chicken broth."
+        ]
+        
+    }
+]
