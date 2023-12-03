@@ -3,13 +3,7 @@ const app = express();
 import cors from 'cors'
 app.use(cors());
 const port = 5000;
-
-const chefs = require('./data/chefs.json')
-const recipes = require('./data/recipes.json') 
-app.use(cors({
-    origin:"*",
-}))
-
+ 
 app.get('/',(req, res)=>{
     res.send('running')
 })
@@ -53,7 +47,7 @@ app.get('/period/:time',  (req, res) => {
 
 }) 
 
-module.exports = app;
+ 
 app.listen(5000, ()=>{
     console.log('running on port', port);
 }) 
