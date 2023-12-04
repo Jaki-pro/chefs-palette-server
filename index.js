@@ -1,11 +1,11 @@
 import express from 'express'
 import cors from 'cors'
-var app = express()
+const app = express()
 app.use(cors()); 
 const port = 5000;  
 app.get('/',(req, res)=>{
     req='no-cors'
-    res.send("ok")
+    res.send({"ok":'okk'})
 })
 
 //Find chef using chefId
