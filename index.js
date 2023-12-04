@@ -1,12 +1,11 @@
 import express from 'express'
 import cors from 'cors'
-const app = express() 
-import * as chefsData from 'file:///C:/react/firebase/Big%20Project/palette-server/data/chefs.json' assert { type: 'json' };
+const app = express()  
 app.use(cors()); 
 const port = 5000;  
 app.get('/',(req, res)=>{
     req='no-cors'
-    res.send(chefsData)
+    res.send(56)
 })
 
 //Find chef using chefId
